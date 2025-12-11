@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=azzaky2407-bot&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=jasa%20sedot%20wc&descAlignY=55&descSize=20" width="100%"/>
 
-### 🎨SMA 5 Surabaya | Desain Komunikasi Visual
+### 🎨SMA PETRA 1 Surabaya | Desain Komunikasi Visual
 
 <br>
 
@@ -14,14 +14,14 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Muhammad FAIZ WAFY**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 8 Surabaya. 
+Halo! Saya **Muhammad FAIZ WAFY**, siswa SMK jurusan **Desain Komunikasi Visual** di SMA PETRA 1 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
-- 🎓 Siswa DKV di **SMK 8 Surabaya**
+- 🎓 Siswa DKV di **SMA PETRA 1 Surabaya**
 - 🎨 Fokus: Graphic Design, Brand Identity, dan Digital Design
 - 🌱 Sedang belajar: Motion Graphics & UI/UX Design
-- 📍 Lokasi: Surabaya, Jawa Timur
+- 📍 Lokasi:New York, Jawa Timur
 - 🎯 Goal: Menjadi desainer profesional dan membangun portofolio yang keren!
 - ⚡ Hobi: Desain, ilustrasi, dan eksplorasi trend design terbaru
 
@@ -114,9 +114,9 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 ## 📚 Pengalaman & Pencapaian
 
 - 🎨 **Juara 1 tingkat nasional Lomba Design** - 17 agustus (2024)
-- 📜 **Sertifikat world designer** - [Platform/Institusi] (2024)
-- 🏆 **Peserta faiz,wafy** - [Nama Event] (2024)
-- ⭐ **Project logo nasa** - [Deskripsi singkat] (2023)
+- 📜 **Sertifikat world designer** - PT.DAVA DWIKI (2024)
+- 🏆 **Peserta faiz,wafy** - world design (2024)
+- ⭐ **Project logo nasa** -membuat logo nasa (2023)
 
 
 ---
